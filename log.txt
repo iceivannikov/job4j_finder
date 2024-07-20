@@ -1,0 +1,891 @@
+/Users/viktor/Yandex.Disk-iceivannikov.localized/Загрузки/56765/7-12.txt
+/Users/viktor/Library/Application Support/Firefox/Profiles/2a2u9caq.default-release/weave/logs/error-sync-1715005008301.txt
+/Users/viktor/Library/Application Support/Firefox/Profiles/2a2u9caq.default-release/weave/logs/error-sync-1715004171288.txt
+/Users/viktor/Library/Application Support/Firefox/Profiles/2a2u9caq.default-release/pkcs11.txt
+/Users/viktor/Library/Application Support/Firefox/Profiles/2a2u9caq.default-release/serviceworker.txt
+/Users/viktor/Library/Application Support/Firefox/Profiles/2a2u9caq.default-release/gmp-widevinecdm/4.10.2710.0/LICENSE.txt
+/Users/viktor/Library/Application Support/Firefox/Profiles/2a2u9caq.default-release/sessionstore-logs/error-sessionrestore-1719759759176.txt
+/Users/viktor/Library/Application Support/SyncServices/Local/clientdata/120c2b27e9ab530b442181ced8799e35b30c85cb/clientname.txt
+/Users/viktor/Library/Application Support/SyncServices/Local/clientdata/633a1ba25cb8241bbde44acb603ee1e822cde772/clientname.txt
+/Users/viktor/Library/Application Support/iMazing/Backups/iMazing.Versions/Readme.txt
+/Users/viktor/Library/Application Support/OneDrive/settings/Business1/ListIdDiscoveryResponse.txt
+/Users/viktor/Library/Application Support/OneDrive/settings/Business1/SiteIdDiscoveryResponse.txt
+/Users/viktor/Library/Application Support/OneDrive/settings/Business1/downloads3.txt
+/Users/viktor/Library/Application Support/OneDrive/settings/Business1/uploads.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1056/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1067/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/701/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/908/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/990/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/643/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/816/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/811/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/845/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/887/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/619/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/483/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1148/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/821/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/819/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/881/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/424/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1139/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/861/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/437/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/850/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1130/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1136/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1107/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1028/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/713/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/715/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/922/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/783/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/777/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1089/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/779/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/746/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/914/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/392/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/951/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/536/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/795/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1054/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1121/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/426/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/614/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1119/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/879/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/883/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/622/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/486/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1111/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/487/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/683/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1142/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/800/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/493/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/637/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/608/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/434/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1133/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/432/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1135/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1132/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/403/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/864/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/578/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1047/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/942/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/522/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/945/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/926/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/787/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/789/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/910/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/388/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/581cb4c98ea2eb75f3d0cf4ca7a96105306862e1/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/2f4bc595dd65c70588c82457bd4a8ef29f3b367c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/ed76006d9cb8b3562c188472c680ea414a23f9e6/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b4f5a2e39b2a4445636576e298011a4594800d12/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c9de9ca1e52ab4bbb524525acf16a32aaa1192a7/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/28da9c56fde4021055a681112c092453f74d8dd8/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/274d1d1f915fafc8567179954271fe742319fe99/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/9d9873d518a70a67814900fbaadcbe661dbc08d3/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b2aeae1f9c69edfefa7b0b95c237a8779395ab10/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/389d8f24db1614a25237239602e7c30eda35e7b9/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/88424aa1ef33eab76bd8463fc096d7e1413ca7db/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/f56bfb986dc43b7d725c421f76f49d3c8fb9acfd/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b500f1faf61f180de1748705af17dc1a8e8ccb3b/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/1872bb20807a532af6adf50afeb08999bdc8c90c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d1bf1f24f080db5520d2c93f532f253c4b8d92e8/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c7d67cba325ccbd672a24c3cb400e99086a62d4c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/a0626c2b1f02a4f2e744ba16df7a7e5f3cbc21d9/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/2ff318b699567256ed3d4ba25948f8d632f13d7d/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/52f9e2ae2e3dafa60e5aaa22e02461fb1b47bc8c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b179c7b416052cc6da17545cae82cb5a7ab2412c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b04af9bd8099c08bf339fba646210a698fbb029a/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/62ff06ba119d51b36c0af2bfa96ae02b031a438c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/ef96ef3a08d854ef847a2be9ee7006fe9357e56d/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/22fe0bb7869ed1871abdf334877f3bba66759c58/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/bab6a99bc2431e0064c0d1d58dd0aadf854f7074/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/5f20946cb2d6ecc285e0d3962e8845355ae3fa54/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/ac287265b5566210d2ef7236b2901fe13f3340b5/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d6ef9df1ce1131060a6d644732c23c71ef6a7605/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/aed9958a55478d37c0bd71f9c11726ecc5290045/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d9e8af0704e633671c505a5d3b8272e40e9fb439/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/2fd9cf7e1f0a0fba73b8963c24dea9e4c44ccaa1/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/1b3eb2515f90f2d7e5da0b22f3faf0e25ccc42e6/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b5908da26a3765ababe2d2173dd9cb43e8428b58/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/ec11e193219514b0bb84c09c60339f5275646369/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/a9d5a3e93c41dabc8708d0bfdad7abd6ceb5f56b/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/04f36b1f9c1d510b79970044c66630ca69f4552a/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/a887314c2d32192feaca115534dbb64281481ee4/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/0b0409f18e6b70cc9eb9cc75934d69aa71f580c1/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c41d8997cb3a8690d7dd395e60ec64fb9c743cc0/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/940616f7ec3e1f4346ccd192ede28a2b9ae777f7/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/3b476e0705b23a146d46ebe74dd38debb4e6dc42/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/0aee92b64fda768f9e7a720a4ba4f2df7337efbd/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/8d987122c6c22a45acf9889171b20deb05fb6e12/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/17a973cad441563b878be52f8cc229ec6261a7f0/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/3733aa2090d35c471aaad13ba18f97c4983ffa99/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/32cadb2b6d359d069dd3f3d132c212a43d223701/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d8d05327c5274855b1a8796001e4dc6b8f2e344f/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c02d92c21a1041fdacc219d920cfe5fb2eb28a9f/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/6f38fcd43ac2347fc6f3b33e2844f58e79cb626f/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/e9477dad03332f49814329f049f2f5cecdabf00d/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/7b539bde8ca0807396a791d6ee4db1189d0e5380/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d08be4e1d156fd20345f7a3d03f22b976b53ee7a/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/961aa296b38fe90a3417c793968cda30d9a973d0/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/020b9dec763273c3be8b9ee1355a4b209054d9b3/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/804e647094f8bbebf1e2c21e687db02a6096fdae/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/2db77b47549a3c71f729725876c9f30361eea089/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/9c0086f2625be72ced4bb6ef8f3a94654a553024/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/51d58b70c5aa7f4f823b778f14e6dec7f32d1064/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b27f5d682c5973f5003176a7dd444c1e1e5051e6/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/4fb0d2c66b84395852cceac05c59792751bead9c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/bd416035fe7474b698eff82c3268d6504dc01542/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c3ed3dd7f3e3e580b4971beef3f865291e40f98c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b3a876baa2bf8063bc3ecd7dc3af4129e10ae93b/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/5ce50966647b163092d864b9f37d981f5bccd871/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b6db253e078ae711c8da99b0cf926d895edb1062/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/134dcd51b150618cb93133ada060e4c799893fa5/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/8812a7c1331232b5c5f389e6c189a98e13a7f9d3/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/7f48483383968cfbf97a5c6d736588b00ccb874e/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/36a188fb02396c7e777a6f1f2ffdbc4420d5fb63/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/313a831c8fcbd33313f1147cdd13bc0b40a0ae8f/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/19f7f765e8fec372900240700faada077eed5eeb/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/397e5d81bdb71a423054f3b5524da80fc3c2e3bb/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/0f4c87f58e3554965c14e5072f508889705a6c84/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Extensions/kgjfgplpablkjnlkjmjdecgdpfankdle/1.8.34_0/js/lib.bundle.js.LICENSE.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Extensions/kgjfgplpablkjnlkjmjdecgdpfankdle/1.8.34_0/version.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Extensions/bkhaagjahfmjljalopjnoealnfndnagc/8.0.1_0/NOTICE.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Extensions/dgjhfomjieaadpoljlnidmbgkdffpack/23.12.12.2159_0/extensions/revision.txt
+/Users/viktor/Library/Application Support/Google/Chrome/ZxcvbnData/3/male_names.txt
+/Users/viktor/Library/Application Support/Google/Chrome/ZxcvbnData/3/english_wikipedia.txt
+/Users/viktor/Library/Application Support/Google/Chrome/ZxcvbnData/3/female_names.txt
+/Users/viktor/Library/Application Support/Google/Chrome/ZxcvbnData/3/passwords.txt
+/Users/viktor/Library/Application Support/Google/Chrome/ZxcvbnData/3/us_tv_and_film.txt
+/Users/viktor/Library/Application Support/Google/Chrome/ZxcvbnData/3/surnames.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 4/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 4/Service Worker/CacheStorage/8d987122c6c22a45acf9889171b20deb05fb6e12/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 4/optimization_guide_prediction_model_downloads/f78bbf96-ea39-4e72-94df-19fdfa2d3127/VERSION.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 3/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 3/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 3/Service Worker/CacheStorage/7b539bde8ca0807396a791d6ee4db1189d0e5380/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Subresource Filter/Unindexed Rules/9.49.1/LICENSE.txt
+/Users/viktor/Library/Application Support/Google/Chrome/System Profile/optimization_guide_prediction_model_downloads/fabbedbb-6d4d-47f3-996b-c25678790cf3/VERSION.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 2/Service Worker/CacheStorage/2ff318b699567256ed3d4ba25948f8d632f13d7d/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 2/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 2/Service Worker/CacheStorage/7b539bde8ca0807396a791d6ee4db1189d0e5380/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 2/optimization_guide_prediction_model_downloads/30a97bc1-47ac-4697-b271-924897d09bf5/VERSION.txt
+/Users/viktor/Library/Application Support/Google/Chrome/optimization_guide_model_store/15/DC3E7836E4D434CA/C9E0AE048DFDE0BF/VERSION.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Guest Profile/optimization_guide_prediction_model_downloads/1186c7dd-0e60-43d8-9ad8-a6a73e0355c8/VERSION.txt
+/Users/viktor/Library/Application Support/Microsoft/Teams/logs.txt
+/Users/viktor/Library/Application Support/Postman/Partitions/3e9e9096-8370-4b93-bf69-10104b301a54/Service Worker/CacheStorage/53b563de69a8e9800e38f66c9c19e1e0dbd5106a/index.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.3/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.3/disabled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.3/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.3/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.3/plugin_disabled_updates.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/COPYRIGHT.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/COPYRIGHT_HEADER.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/NOTICE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/prototype_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/aether_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/trove_readme_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/sun_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/jspecify_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_distribution_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/spring_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/rxjava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/lombok_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/dagger_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/findbugs_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/karma-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/dart_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/gradle_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/closure-compiler_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/karma_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/gwt_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/lodash_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/qunit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/jgit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/mocha-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/gradle-node-plugin_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/asmble_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/jquery_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/scala_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/guava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/aalto_xml_licence.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/asm_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/lombok_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/caffeine_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/boost_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/sl4f_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/aosp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/teamcity-service-messages_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/maven_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/trove_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/okhttp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/args4j_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/stax2-api.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/assemblyscript_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/rhino_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/third_party/jshashtable_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/license/LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugins/Kotlin/kotlinc/build.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/disabled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2023.2/plugin_disabled_updates.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/COPYRIGHT.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/COPYRIGHT_HEADER.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/NOTICE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/prototype_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/aether_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/trove_readme_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/sun_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/jspecify_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_distribution_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/spring_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/rxjava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/lombok_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/dagger_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/findbugs_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/karma-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/dart_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/gradle_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/closure-compiler_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/karma_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/gwt_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/lodash_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/qunit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/jgit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/mocha-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/gradle-node-plugin_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/asmble_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/jquery_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/scala_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/guava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/aalto_xml_licence.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/asm_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/lombok_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/caffeine_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/boost_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/sl4f_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/aosp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/teamcity-service-messages_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/maven_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/trove_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/okhttp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/args4j_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/stax2-api.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/assemblyscript_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/rhino_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/third_party/jshashtable_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/license/LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/plugins/Kotlin/kotlinc/build.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/disabled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/jdbc-drivers/PostgreSQL/42.5.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/jdbc-drivers/PostgreSQL/42.6.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/jdbc-drivers/MySQL ConnectorJ/8.0.25/mysql-connector-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/jdbc-drivers/Cassandra/1.4/license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2022.3/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/disabled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/jdbc-drivers/PostgreSQL/42.5.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/jdbc-drivers/PostgreSQL/42.6.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/jdbc-drivers/MySQL ConnectorJ/8.0.25/mysql-connector-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/jdbc-drivers/Cassandra/1.4/license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2024.1/migration_installed_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/disabled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/jdbc-drivers/PostgreSQL/42.5.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/jdbc-drivers/PostgreSQL/42.6.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/jdbc-drivers/MySQL ConnectorJ/8.0.25/mysql-connector-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/jdbc-drivers/Cassandra/1.4/license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.3/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/COPYRIGHT.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/COPYRIGHT_HEADER.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/NOTICE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/prototype_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/aether_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/trove_readme_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/sun_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/jspecify_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_distribution_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/spring_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/rxjava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/lombok_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/dagger_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/testdata/findbugs_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/karma-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/dart_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/gradle_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/closure-compiler_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/karma_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/gwt_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/lodash_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/qunit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/jgit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/mocha-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/gradle-node-plugin_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/asmble_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/jquery_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/scala_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/guava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/aalto_xml_licence.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/asm_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/lombok_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/caffeine_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/boost_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/sl4f_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/aosp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/teamcity-service-messages_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/maven_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/trove_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/okhttp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/args4j_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/stax2-api.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/assemblyscript_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/rhino_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/third_party/jshashtable_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/license/LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/plugins/Kotlin/kotlinc/build.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/disabled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/jdbc-drivers/PostgreSQL/42.5.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/jdbc-drivers/PostgreSQL/42.6.0/postgresql-driver-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/jdbc-drivers/MySQL ConnectorJ/8.0.25/mysql-connector-license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/jdbc-drivers/Cassandra/1.4/license.txt
+/Users/viktor/Library/Application Support/JetBrains/IntelliJIdea2023.2/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2024.1/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2024.1/disabled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2024.1/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2024.1/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2024.1/plugin_disabled_updates.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2024.1/migration_installed_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/COPYRIGHT.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/COPYRIGHT_HEADER.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/NOTICE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/prototype_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/aether_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/trove_readme_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/sun_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/jspecify_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_distribution_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/spring_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/rxjava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/lombok_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/dagger_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/testdata/findbugs_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/karma-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/dart_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/gradle_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/closure-compiler_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/karma_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/gwt_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/lodash_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/qunit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/jgit_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/mocha-teamcity-reporter_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/gradle-node-plugin_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/asmble_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/jquery_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/scala_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/guava_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/aalto_xml_licence.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/asm_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/lombok_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/caffeine_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/boost_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/sl4f_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/aosp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/teamcity-service-messages_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/maven_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/trove_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/okhttp_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/args4j_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/stax2-api.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/assemblyscript_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/rhino_LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/third_party/jshashtable_license.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/license/LICENSE.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugins/Kotlin/kotlinc/build.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/bundled_plugins.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/early-access-registry.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/disabled_update.txt
+/Users/viktor/Library/Application Support/JetBrains/IdeaIC2022.3/plugin_disabled_updates.txt
+/Users/viktor/Library/Application Support/Adobe/Acrobat/DC/Reader/Synchronizer/AdobeResourceSynchronizer-log.txt
+/Users/viktor/Library/Application Support/Adobe/Linguistics/UserDictionaries/Adobe Custom Dictionary/all/excluded.txt
+/Users/viktor/Library/Application Support/Adobe/Linguistics/UserDictionaries/Adobe Custom Dictionary/all/added.txt
+/Users/viktor/Library/Application Support/Adobe/Linguistics/UserDictionaries/Adobe Custom Dictionary/ru_RU/exceptions.txt
+/Users/viktor/Library/Application Support/Adobe/Linguistics/UserDictionaries/Adobe Custom Dictionary/ru_RU/added.txt
+/Users/viktor/Library/Application Support/Chromium/ZxcvbnData/3/male_names.txt
+/Users/viktor/Library/Application Support/Chromium/ZxcvbnData/3/english_wikipedia.txt
+/Users/viktor/Library/Application Support/Chromium/ZxcvbnData/3/female_names.txt
+/Users/viktor/Library/Application Support/Chromium/ZxcvbnData/3/passwords.txt
+/Users/viktor/Library/Application Support/Chromium/ZxcvbnData/3/us_tv_and_film.txt
+/Users/viktor/Library/Application Support/Chromium/ZxcvbnData/3/surnames.txt
+/Users/viktor/Library/Application Support/Chromium/Subresource Filter/Unindexed Rules/9.49.1/LICENSE.txt
+/Users/viktor/Library/Application Support/CloudDocs/A86B9283-5174-5BF0-8F60-66714A346E83.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/prompt.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/command_line.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/background_worker.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/webpage_content_reporter.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/aria.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/gojhcdgcpbpfigcaejpfhfegekdgiblk/1.19_0/service.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/gojhcdgcpbpfigcaejpfhfegekdgiblk/1.19_0/web3/provider.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/kfhepdlicclpndldhdpnfpknmdelndkf/0.0.30_0/index.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/opera_shutdown_ms.txt
+/Users/viktor/Library/Application Support/Sublime Text/Lib/python33/wcwidth/LICENSE.txt
+/Users/viktor/Library/Application Support/pgAdmin 4/chrome_shutdown_ms.txt
+/Users/viktor/Library/Application Support/MySQL/Workbench/snippets/DB Management.txt
+/Users/viktor/Library/Application Support/MySQL/Workbench/snippets/SQL DDL Statements.txt
+/Users/viktor/Library/Application Support/MySQL/Workbench/snippets/SQL DML Statements.txt
+/Users/viktor/Library/Application Support/MySQL/Workbench/shell_bookmarks.txt
+/Users/viktor/Library/Application Support/MySQL/Workbench/shell_history.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/WebStorage/103/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/WebStorage/58/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/WebStorage/87/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/WebStorage/106/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/WebStorage/52/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Service Worker/CacheStorage/b179c7b416052cc6da17545cae82cb5a7ab2412c/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Service Worker/CacheStorage/076e056d86cac79fba1568064cef1b4bd5e30fa0/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Service Worker/CacheStorage/df10055077ba6d055202a286871492a294099fa5/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Service Worker/CacheStorage/4d7cfa29d1df6a541af10fbeeb60e4d3390bf989/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Service Worker/CacheStorage/7f48483383968cfbf97a5c6d736588b00ccb874e/index.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Extensions/efmeiipgodbfbbloibdecgnhnjjdenek/1.10.3_0/scripts/content-script.js.LICENSE.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Extensions/efmeiipgodbfbbloibdecgnhnjjdenek/1.10.3_0/scripts/popup.js.LICENSE.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Extensions/efmeiipgodbfbbloibdecgnhnjjdenek/1.10.3_0/scripts/background.js.LICENSE.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Extensions/efmeiipgodbfbbloibdecgnhnjjdenek/1.10.3_0/scripts/blocked.js.LICENSE.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/AsrSubtitles/24.2.15.0/subword_ctct_dict.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/AsrSubtitles/24.7.12.0/subword_ctct_dict.txt
+/Users/viktor/Library/Application Support/Yandex/YandexBrowser/AsrSubtitles/24.7.12.0/._subword_ctct_dict.txt
+/Users/viktor/Library/Application Support/TeamViewer QuickSupport/Custom Configurations/x6cwqqm/disclaimer.txt
+/Users/viktor/Library/Application Support/Blender/4.1/config/recent-files.txt
+/Users/viktor/Library/Application Support/Blender/4.1/config/platform_support.txt
+/Users/viktor/Library/Application Support/Blender/4.1/config/bookmarks.txt
+/Users/viktor/Library/Application Support/Blender/4.1/config/recent-searches.txt
+/Users/viktor/Library/Application Support/windscribe.controld/log.txt
+/Users/viktor/Library/Application Support/windscribe.controld/cmdexitcode.txt
+/Users/viktor/Library/Application Support/JREInstaller/JREInstallLog.txt
+/Users/viktor/Library/Translation/Hotfix/187-1/mapping.txt
+/Users/viktor/Library/Java/JavaVirtualMachines/openjdk-22/Contents/Home/conf/security/policy/README.txt
+/Users/viktor/Library/Java/JavaVirtualMachines/openjdk-21.0.2/Contents/Home/conf/security/policy/README.txt
+/Users/viktor/Library/Java/JavaVirtualMachines/corretto-1.8.0_362/Contents/Home/jre/lib/server/Xusage.txt
+/Users/viktor/Library/Java/JavaVirtualMachines/corretto-1.8.0_362/Contents/Home/jre/lib/jvm.hprof.txt
+/Users/viktor/Library/Java/JavaVirtualMachines/corretto-1.8.0_362/Contents/Home/version.txt
+/Users/viktor/Library/Java/JavaVirtualMachines/corretto-1.8.0_362/Contents/Home/commitId.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_943c4_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_7e1f9_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_b4b56_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_7f5a4_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_88276_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_725a3_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_a2e6e_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_7e270_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_fd0bb_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_5daf1_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_0f6ff_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_e3b07_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_34612_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_9de07_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_9fd28_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_11a5b_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_4cd83_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_9e2d8_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_930d2_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_5ce7c_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_7ae3b_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_a8e85_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_8a9f0_1.txt
+/Users/viktor/Library/Logs/Roblox/bootstrapper_ded7f_1.txt
+/Users/viktor/Library/Logs/OneDrive/Personal/telemetry-dll-ramp-value.txt
+/Users/viktor/Library/Logs/OneDrive/Business1/telemetry-dll-ramp-value.txt
+/Users/viktor/Library/Logs/OneDrive/Business1/collector-url.txt
+/Users/viktor/Library/Logs/OneDrive/ListSync/Business1/telemetry-dll-ramp-value.txt
+/Users/viktor/Library/Logs/Aktiv Co/Rutoken TLS/20240315T113656.txt
+/Users/viktor/Library/Logs/Aktiv Co/Rutoken TLS/20240315T110007.txt
+/Users/viktor/Library/Logs/Aktiv Co/Rutoken TLS/20240321T133700.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155712.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155717.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155727.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155732.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155722.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155737.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155747.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231217-155711-IC-232.10203.10/threadDump-20231217-155742.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112249.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112314.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112304.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112259.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112238.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112254.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112309.txt
+/Users/viktor/Library/Logs/JetBrains/IdeaIC2023.2/threadDumps-freeze-20231215-112238-IC-232.10203.10/threadDump-20231215-112244.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170029.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170039.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170049.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170054.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170044.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170034.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170024.txt
+/Users/viktor/Library/Logs/JetBrains/IntelliJIdea2023.2/threadDumps-freeze-20231224-170019-IU-232.9921.47/threadDump-20231224-170019.txt
+/Users/viktor/Library/Logs/com.apple.AMPLibraryAgent/iTunes Migration/iTunes Migration Log [2023-02-23 17.30.18].txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.OneDriveStandaloneSuite/FileProviderLogs/telemetry-dll-ramp-value.txt
+/Users/viktor/Library/Group Containers/group.com.docker/DockerAppStderr.txt
+/Users/viktor/Library/Group Containers/group.com.docker/auth-token-family-creation-time.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-49-57.175.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-27-39.051.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-03-51.907.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-46-57.857.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-06-55.853.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-12-40.737.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-18-47.101.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-41-04.097.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-52-39.584.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-57-50.297.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-21-46.762.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-44-04.375.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-15-50.539.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-55-17.703.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-09-28.514.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-33-12.873.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-00-51.709.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-18_16-59-54.945.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-30-10.749.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-24-50.234.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/b5419f0174c792076e7083dc227c2afb/PackageResources/index.macos.jsbundle.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/b5419f0174c792076e7083dc227c2afb/PackageResources/tester.macos.jsbundle.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/bd8e0125456c48722521ff10d185f494/PackageResources/OfflineFiles/main.js.LICENSE_68254f8780ea332d55f5f612d20edaed.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/build.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/93191.d0474234.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/loopappdialogs.0f75aa56.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/1385.1c4a11b7.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/38868.6532317a.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/13255.3bc6efaf.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/main.e1c6cec5.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/55106.7289abe2.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/fluid-debugger.b46384d1.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/98256.0f77e43a.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/SharepointNotificationService.a3001fa8.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/82075.fd072fc8.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/69225.fdc7943e.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/72423.dee828b8.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/95126.b3572414.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/97950.7568566c.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/46954.1fbbb7be.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/14618.1e747e7c.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/static/js/card-loop.137e676b.chunk.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/444cbb0bddee42198446b9e57b40de28/PackageResources/fluidhost/robots.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/3829301271b0da0d2c6666c2c2c6f1d7/PackageResources/dist/main.min.js.LICENSE.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.ms/Microsoft Word.MERP.params.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.ms/Microsoft PowerPoint.MERP.params.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.ms/Microsoft AutoUpdate.MERP.params.txt
+/Users/viktor/Library/Group Containers/UBF8T346G9.ms/Microsoft Excel.MERP.params.txt
+/Users/viktor/Library/Containers/com.apple.freeform/Data/Library/Caches/Brushes/CRLBrushCacheVersion.txt
+/Users/viktor/Library/Containers/com.apple.stocks.detailintents/Data/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/viktor/Library/Containers/com.apple.iWork.Numbers/Data/Library/Caches/Brushes/TSDBrushCacheVersion.txt
+/Users/viktor/Library/Containers/com.apple.iBooksX/Data/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/viktor/Library/Containers/com.apple.iWork.Keynote/Data/Library/Caches/Brushes/TSDBrushCacheVersion.txt
+/Users/viktor/Library/Containers/com.apple.iWork.Pages/Data/Library/Caches/Brushes/TSDBrushCacheVersion.txt
+/Users/viktor/Library/Containers/com.apple.AppStore/Data/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/viktor/Library/Containers/com.utmapp.UTM/Data/Documents/Public/README.txt
+/Users/viktor/Library/Containers/com.apple.weather/Data/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/viktor/Library/Containers/com.tinyspeck.slackmacgap/Data/Library/Application Support/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/index.txt
+/Users/viktor/Library/Containers/com.docker.docker/Data/extensions/mochoa_pgadmin4-docker-extension/ui/ui/static/js/main.b0d0b639.js.LICENSE.txt
+/Users/viktor/Library/Caches/iMazing/00008130-001E15A234B8001C/PartialBackup/00008130-001E15A234B8001C/iMazingBackupChecksum.txt
+/Users/viktor/Library/Caches/Homebrew/external_commands_list.txt
+/Users/viktor/Library/Caches/Homebrew/all_commands_list.txt
+/Users/viktor/Library/Caches/Homebrew/api/formula_names.before.txt
+/Users/viktor/Library/Caches/Homebrew/api/formula_names.txt
+/Users/viktor/Library/Caches/Homebrew/api/cask_names.before.txt
+/Users/viktor/Library/Caches/Homebrew/api/formula_aliases.txt
+/Users/viktor/Library/Caches/Homebrew/api/cask_names.txt
+/Users/viktor/Library/Caches/JetBrains/IdeaIC2023.3/compile-server/job4j_tracker_114f64fe/targets/java-production/tracker_c060d738/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IdeaIC2023.3/compile-server/job4j_tracker_114f64fe/targets/java-test/tracker_c060d738/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IdeaIC2023.3/tmp/patch-update/jre/conf/security/policy/README.txt
+/Users/viktor/Library/Caches/JetBrains/IdeaIC2023.2/tmp/patch-update/jre/conf/security/policy/README.txt
+/Users/viktor/Library/Caches/JetBrains/IdeaIC2023.2/caches/project_resources/project_lru_list.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2024.1/compile-server/job4j_design_776b9024/targets/java-production/job4j_design_b5d2284a/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2024.1/compile-server/job4j_design_776b9024/targets/java-test/job4j_design_b5d2284a/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/c3cf138a-d5a6-4445-9461-9b8487a9c7c5/logs/localhost_access_log.2024-02-12.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-02.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-03.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-06.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-10.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-04.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-05.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-22.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-23.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-21.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-24.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-25.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-19.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-27.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-26.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-14.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-28.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-29.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-15.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-12.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-02-13.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-08.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tomcat/a1c43a31-de14-4922-820c-24ad91745cc5/logs/localhost_access_log.2024-03-09.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/compile-server/basejava_b33a678d/targets/java-production/basejava_996de073/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/compile-server/basejava_b33a678d/targets/java-test/basejava_996de073/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/compile-server/job4j_tracker_114f64fe/targets/java-production/tracker_c060d738/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/compile-server/job4j_tracker_114f64fe/targets/java-test/tracker_c060d738/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/compile-server/job4j_elementary_60b055d2/targets/java-production/elementary_225429ec/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/compile-server/job4j_elementary_60b055d2/targets/java-test/elementary_225429ec/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/index/shared_indexes/excluded-chunks.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.3/tmp/patch-update/jre/conf/security/policy/README.txt
+/Users/viktor/Library/Caches/JetBrains/IntelliJIdea2023.2/tmp/patch-update/jre/conf/security/policy/README.txt
+/Users/viktor/Library/Caches/JetBrains/IdeaIC2024.1/compile-server/job4j_design_776b9024/targets/java-test/job4j_design_b5d2284a/kotlin/has-kotlin-marker.txt
+/Users/viktor/Library/Caches/com.apple.AppleMediaServices/Engagement/clientData.txt
+/Users/viktor/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
+/Users/viktor/.gradle/wrapper/dists/gradle-7.6.1-bin/2clxi94ab3brv6467628wnxmd/gradle-7.6.1/init.d/readme.txt
+/Users/viktor/IdeaProjects/untitled2/target/classes/input.txt
+/Users/viktor/IdeaProjects/untitled2/target/classes/output.txt
+/Users/viktor/IdeaProjects/untitled2/src/main/resources/input.txt
+/Users/viktor/IdeaProjects/untitled2/src/main/resources/output.txt
+/Users/viktor/IdeaProjects/git-merge-case/file.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.JiraRushApplicationTests.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.project.internal.web.ProjectControllerTest.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.bugtracking.sprint.SprintControllerTest.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.ref.internal.web.ReferenceControllerTest.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.bugtracking.task.TaskControllerTest.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.login.internal.web.RegisterControllerTest.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.common.util.UtilTest.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.login.internal.web.AdminUserControllerTest.txt
+/Users/viktor/IdeaProjects/project-final/target/surefire-reports/com.javarush.jira.login.internal.web.UserControllerTest.txt
+/Users/viktor/IdeaProjects/project-final/resources/robots.txt
+/Users/viktor/IdeaProjects/pushking/verse.txt
+/Users/viktor/IdeaProjects/httpClient/output.txt
+/Users/viktor/IdeaProjects/git-clone-practice/git-basics/test.txt
+/Users/viktor/IdeaProjects/git-clone-practice/task.txt
+/Users/viktor/IdeaProjects/teremok/teremok.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.io.AnalysisTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.collection.SimpleArrayListTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.assertj.BoxTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.io.ArgsNameTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.set.SimpleArraySetTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.io.AbuseTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.collection.SimpleLinkedListTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.BalancerTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.MatrixIteratorTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.collection.SimpleSetTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.collection.SimpleStackTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.CyclicIteratorTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.ArrayItTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.question.AnalizeTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.BackwardArrayIteratorTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.NonNullIteratorTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.map.NonCollisionMapTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.ListUtilsTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.generic.RoleStoreTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.generic.UserStoreTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.assertj.ModelTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.FlatMapTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.assertj.NameLoadTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.collection.RevertLinkedTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.collection.SimpleQueueTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.assertj.SimpleModelTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.io.ConfigTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.collection.ForwardLinkedTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.assertj.SimpleConvertTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.assertj.SimpleCollectionTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.tree.SimpleTreeTest.txt
+/Users/viktor/IdeaProjects/job4j_design/target/surefire-reports/ru.job4j.iterator.EvenNumbersIteratorTest.txt
+/Users/viktor/IdeaProjects/job4j_design/logs/debug.txt
+/Users/viktor/IdeaProjects/job4j_design/data/dataresult.txt
+/Users/viktor/IdeaProjects/job4j_design/data/result.txt
+/Users/viktor/IdeaProjects/job4j_design/data/404.txt
+/Users/viktor/IdeaProjects/job4j_design/data/newData.txt
+/Users/viktor/IdeaProjects/job4j_design/data/Attributes.txt
+/Users/viktor/IdeaProjects/job4j_design/data/input.txt
+/Users/viktor/IdeaProjects/job4j_design/data/log.txt
+/Users/viktor/IdeaProjects/job4j_design/data/write.txt
+/Users/viktor/IdeaProjects/job4j_design/data/print.txt
+/Users/viktor/IdeaProjects/job4j_design/data/random.txt
+/Users/viktor/IdeaProjects/job4j_design/data/dataOutput.txt
+/Users/viktor/IdeaProjects/job4j_design/data/output.txt
+/Users/viktor/IdeaProjects/job4j_design/data/even.txt
+/Users/viktor/IdeaProjects/job4j_design/src/data/logs.txt
+/Users/viktor/IdeaProjects/job4j_design/src/data/answers.txt
+/Users/viktor/IdeaProjects/job4j_design/src/data/text.txt
+/Users/viktor/IdeaProjects/git-demo/test_resource.txt
+/Users/viktor/IdeaProjects/git-demo/newfile.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/out/production/oop-lesson-1/com/ivannikov/oop/lesson17SolarSystem/exercise.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/out/production/oop-lesson-1/com/ivannikov/oop/lesson25multithreading/mages/exercise.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/out/production/oop-lesson-1/com/ivannikov/oop/lesson25multithreading/robots/exercise.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/Task6.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/writer.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/File-for-task-7.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/Task6-result.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/taskIO.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/test.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/tasks-date-time.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/resources/output.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/src/com/ivannikov/oop/lesson17SolarSystem/exercise.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/src/com/ivannikov/oop/lesson25multithreading/mages/exercise.txt
+/Users/viktor/IdeaProjects/oop-lesson-1/src/com/ivannikov/oop/lesson25multithreading/robots/exercise.txt
+/Users/viktor/IdeaProjects/Rectangle/out/text/bruteForceFile.txt
+/Users/viktor/IdeaProjects/Rectangle/out/text/encodeFile.txt
+/Users/viktor/IdeaProjects/Rectangle/out/text/text.txt
+/Users/viktor/IdeaProjects/Rectangle/out/text/decodedFile.txt
+/Users/viktor/IdeaProjects/TelegramBot/buttons.txt
+/Users/viktor/IdeaProjects/project-maven/target/surefire-reports/com.javarush.games.racer.FinishLineTest.txt
+/Users/viktor/IdeaProjects/project-maven/target/surefire-reports/com.javarush.games.racer.DirectionTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.function.SearchFolderTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.StringCompareTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.ProductLabelTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.search.PriorityQueueTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.UserTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.PassportOfficeTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.ConvertListTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.SchoolTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.StudentLevelTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.queue.ReconstructPhraseTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.tracker.StartUITest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.pojo.ShopTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.bank.BankServiceTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.ex.FindTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.hashmap.AnalyzeByMapTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.search.PhoneDictionaryTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.MatrixToListTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.ex.BackArrayTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.FullSearchTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.pojo.ShopDropTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.ProfilesTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.tracker.TrackerTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.oop.TriangleTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.JobTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.AnalyzeTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.SetOverlapCalculatorTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.NotifyAccountTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.UniqueTextTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.OrderConvertTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.ConvertList2ArrayTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.map.CollegeTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.DepartmentsTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.ListToMapTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.queue.ScheduleTaskTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.list.ConvertMatrix2ListTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.tracker.ItemAscByNameTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.queue.AppleStoreTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.inheritance.JSONReportTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.tracker.input.ValidateInputTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.LexSortTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.pojo.LicenseTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.early.PasswordValidatorTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.collection.DepartmentsDescComparatorTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.tracker.ItemDescByNameTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.ex.FactorialTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.function.FunctionCalculatorTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.oop.BatteryTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.PopulationCalculationTest.txt
+/Users/viktor/IdeaProjects/job4j_tracker/target/surefire-reports/ru.job4j.stream.BankServiceTest.txt
+/Users/viktor/IdeaProjects/yandex/input.txt
+/Users/viktor/IdeaProjects/yandex/output.txt
+/Users/viktor/IdeaProjects/git-github-case/feodor-project.txt
+/Users/viktor/IdeaProjects/git-github-case/boris-project.txt
+/Users/viktor/IdeaProjects/test_project/todo.txt
+/Users/viktor/IdeaProjects/test_project/task.txt
+/Users/viktor/IdeaProjects/stepik/ChannelBufferEx2.txt
+/Users/viktor/IdeaProjects/stepik/randomaccessfile.txt
+/Users/viktor/IdeaProjects/stepik/rubai.txt
+/Users/viktor/IdeaProjects/stepik/rudai-copy.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.ChessBoardTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.DummyBotTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.converter.ConverterTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.loop.CounterTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.RollBackArrayTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.RectangleAreaTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.ArrayCharTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.MinDiapasonTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.FindLoopTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.ThreeMaxTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.X2Test.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.MatrixSumTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.UniqueValuesTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.SwitchArrayTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.loop.FitnessTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.MatrixTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.TwoNumberSumTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.SkipNegativeTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.loop.FactorialTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.loop.CheckPrimeNumberTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.TriangleTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.SquareTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.CheckTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.loop.MortgageTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.PointTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.TurnTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.MainTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.LogicNotTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.DivideBySixTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.EndsWithTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.MatrixCheckTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.MinTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.EqualLastTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.condition.MaxTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.calculator.FitTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.SortSelectedTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.MachineTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.array.SimpleStringEncoderTest.txt
+/Users/viktor/IdeaProjects/job4j_elementary/target/surefire-reports/ru.job4j.loop.PrimeNumberTest.txt
+/Users/viktor/IdeaProjects/CryptoAnalyzer/text/bruteforced.txt
+/Users/viktor/IdeaProjects/CryptoAnalyzer/text/decrypted.txt
+/Users/viktor/IdeaProjects/CryptoAnalyzer/text/text.txt
+/Users/viktor/IdeaProjects/CryptoAnalyzer/text/encrypted.txt
+/Users/viktor/IdeaProjects/CryptoAnalyzer/text/dict.txt
+/Users/viktor/IdeaProjects/CryptoAnalyzer/src/main/java/ru/javarush/cryptoanalyzer/sternard/logs/LogExceptions.txt
+/Users/viktor/IdeaProjects/git-status-lesson/fileA.txt
+/Users/viktor/IdeaProjects/new-ptoject/text.txt
+/Users/viktor/IdeaProjects/hippodrome/target/surefire-reports/HorseTest.txt
+/Users/viktor/IdeaProjects/hippodrome/target/surefire-reports/MainTest.txt
+/Users/viktor/IdeaProjects/hippodrome/target/surefire-reports/HippodromeTest.txt
+/Users/viktor/IdeaProjects/Collections3/.gradle/workspace-id.txt
+/Users/viktor/.anydesk/connection_trace.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.7-bin/3k9n615lchs6mp84v355m633uo/apache-maven-3.9.7/lib/ext/redisson/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.7-bin/3k9n615lchs6mp84v355m633uo/apache-maven-3.9.7/lib/ext/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.7-bin/3k9n615lchs6mp84v355m633uo/apache-maven-3.9.7/lib/ext/hazelcast/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.7-bin/3k9n615lchs6mp84v355m633uo/apache-maven-3.9.7/lib/jansi-native/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.7-bin/3k9n615lchs6mp84v355m633uo/apache-maven-3.9.7/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/2cpar40ui5s2pm3ja4s69ub7fa/apache-maven-3.9.1/lib/ext/redisson/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/2cpar40ui5s2pm3ja4s69ub7fa/apache-maven-3.9.1/lib/ext/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/2cpar40ui5s2pm3ja4s69ub7fa/apache-maven-3.9.1/lib/ext/hazelcast/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/2cpar40ui5s2pm3ja4s69ub7fa/apache-maven-3.9.1/lib/jansi-native/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/2cpar40ui5s2pm3ja4s69ub7fa/apache-maven-3.9.1/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/320285b4/apache-maven-3.9.1/lib/ext/redisson/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/320285b4/apache-maven-3.9.1/lib/ext/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/320285b4/apache-maven-3.9.1/lib/ext/hazelcast/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/320285b4/apache-maven-3.9.1/lib/jansi-native/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.1-bin/320285b4/apache-maven-3.9.1/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.2-bin/3238cb54/apache-maven-3.9.2/lib/ext/redisson/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.2-bin/3238cb54/apache-maven-3.9.2/lib/ext/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.2-bin/3238cb54/apache-maven-3.9.2/lib/ext/hazelcast/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.2-bin/3238cb54/apache-maven-3.9.2/lib/jansi-native/README.txt
+/Users/viktor/.m2/wrapper/dists/apache-maven-3.9.2-bin/3238cb54/apache-maven-3.9.2/README.txt
