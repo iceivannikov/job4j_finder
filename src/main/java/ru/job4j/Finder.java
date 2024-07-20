@@ -10,14 +10,13 @@ import java.util.List;
 public class Finder {
     public static void main(String[] args) {
         if (args.length < 4) {
-            throw new IllegalArgumentException("Usage: java Finder -d=<directory> -n=<name> -t=<type> -o=<output>");
+            throw new IllegalArgumentException(
+                    "Usage: java Finder -d=<directory> -n=<name> -t=<type> -o=<output>");
         }
-
         String directory = null;
         String name = null;
         String type = null;
         String output = null;
-
         for (String arg : args) {
             if (arg.startsWith("-d=")) {
                 directory = arg.substring(3);
@@ -29,11 +28,9 @@ public class Finder {
                 output = arg.substring(3);
             }
         }
-
         if (directory == null || name == null || type == null || output == null) {
             throw new IllegalArgumentException("All parameters -d, -n, -t, and -o are required.");
         }
-
         try {
             // Поиск файлов в указанной директории
             List<String> result = searchFiles(directory, name, type);
@@ -43,7 +40,9 @@ public class Finder {
         }
     }
 
-    private static List<String> searchFiles(String directory, String name, String type) throws IOException {
+    private static List<String> searchFiles(String directory,
+                                            String name,
+                                            String type) throws IOException {
         List<String> result = new ArrayList<>();
         Path startPath = Paths.get(directory);
 
@@ -91,8 +90,3 @@ public class Finder {
         }
     }
 }
-
-
-
-
-
