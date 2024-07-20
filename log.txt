@@ -863,6 +863,7 @@
 /Users/viktor/IdeaProjects/CryptoAnalyzer/text/dict.txt
 /Users/viktor/IdeaProjects/CryptoAnalyzer/src/main/java/ru/javarush/cryptoanalyzer/sternard/logs/LogExceptions.txt
 /Users/viktor/IdeaProjects/git-status-lesson/fileA.txt
+/Users/viktor/IdeaProjects/job4j_finder/log.txt
 /Users/viktor/IdeaProjects/new-ptoject/text.txt
 /Users/viktor/IdeaProjects/hippodrome/target/surefire-reports/HorseTest.txt
 /Users/viktor/IdeaProjects/hippodrome/target/surefire-reports/MainTest.txt
