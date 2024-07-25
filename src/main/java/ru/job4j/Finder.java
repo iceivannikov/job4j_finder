@@ -59,21 +59,40 @@ public class Finder {
     }
 
     public static void main(String[] args) {
-        ArgsName argsName = ArgsName.of(args);
-
         if (args.length < 4) {
             throw new IllegalArgumentException(
                     "Usage: java Finder -d=<directory> -n=<name> -t=<type> -o=<output>");
         }
+        ArgsName argsName = ArgsName.of(args);
         String directory = argsName.get("d");
         String name = argsName.get("n");
         String type = argsName.get("t");
         String output = argsName.get("o");
+        validateArgs(directory, name, type, output);
         try {
             List<String> result = searchFiles(directory, name, type);
             writeToFile(result, output);
         } catch (IOException e) {
             throw new RuntimeException("Error during file operation: " + e.getMessage(), e);
+        }
+    }
+
+    private static void validateArgs(String directory, String name, String type, String output) {
+        if (directory == null || directory.isEmpty()) {
+            throw new IllegalArgumentException("Directory parameter '-d' is required.");
+        }
+        if (name == null || name.isEmpty()) {
+            throw new IllegalArgumentException("Name parameter '-n' is required.");
+        }
+        if (type == null || type.isEmpty()) {
+            throw new IllegalArgumentException("Type parameter '-t' is required.");
+        }
+        if (output == null || output.isEmpty()) {
+            throw new IllegalArgumentException("Output parameter '-o' is required.");
+        }
+        if (!type.equals("mask") && !type.equals("name") && !type.equals("regex")) {
+            throw new IllegalArgumentException(
+                    "Type parameter '-t' must be one of the following: mask, name, regex.");
         }
     }
 }
