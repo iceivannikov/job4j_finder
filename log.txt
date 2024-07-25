@@ -7,6 +7,7 @@
 /Users/viktor/Library/Application Support/Firefox/Profiles/2a2u9caq.default-release/sessionstore-logs/error-sessionrestore-1719759759176.txt
 /Users/viktor/Library/Application Support/SyncServices/Local/clientdata/120c2b27e9ab530b442181ced8799e35b30c85cb/clientname.txt
 /Users/viktor/Library/Application Support/SyncServices/Local/clientdata/633a1ba25cb8241bbde44acb603ee1e822cde772/clientname.txt
+/Users/viktor/Library/Application Support/com.openai.chat/io.sentry/SentryCrash/ChatGPT/Data/ConsoleLog.txt
 /Users/viktor/Library/Application Support/iMazing/Backups/iMazing.Versions/Readme.txt
 /Users/viktor/Library/Application Support/OneDrive/settings/Business1/ListIdDiscoveryResponse.txt
 /Users/viktor/Library/Application Support/OneDrive/settings/Business1/SiteIdDiscoveryResponse.txt
@@ -27,6 +28,7 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1148/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/821/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/819/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1179/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/881/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/424/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1139/CacheStorage/index.txt
@@ -58,17 +60,20 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/879/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/883/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/622/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1186/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/486/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1111/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/487/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/683/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1142/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1160/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/800/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/493/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/637/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/608/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/434/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1133/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1159/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/432/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1135/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1132/CacheStorage/index.txt
@@ -125,6 +130,7 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/a9d5a3e93c41dabc8708d0bfdad7abd6ceb5f56b/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/04f36b1f9c1d510b79970044c66630ca69f4552a/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/a887314c2d32192feaca115534dbb64281481ee4/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/5aa794503a630c5fb393aa9bcc3f7b0704d2862d/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/0b0409f18e6b70cc9eb9cc75934d69aa71f580c1/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c41d8997cb3a8690d7dd395e60ec64fb9c743cc0/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/940616f7ec3e1f4346ccd192ede28a2b9ae777f7/index.txt
@@ -151,6 +157,7 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/4fb0d2c66b84395852cceac05c59792751bead9c/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/bd416035fe7474b698eff82c3268d6504dc01542/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c3ed3dd7f3e3e580b4971beef3f865291e40f98c/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/6407ac94a4df1f59494d19d34e57233bb52da38d/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b3a876baa2bf8063bc3ecd7dc3af4129e10ae93b/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/5ce50966647b163092d864b9f37d981f5bccd871/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b6db253e078ae711c8da99b0cf926d895edb1062/index.txt
@@ -447,11 +454,12 @@
 /Users/viktor/Library/Application Support/Chromium/ZxcvbnData/3/surnames.txt
 /Users/viktor/Library/Application Support/Chromium/Subresource Filter/Unindexed Rules/9.49.1/LICENSE.txt
 /Users/viktor/Library/Application Support/CloudDocs/A86B9283-5174-5BF0-8F60-66714A346E83.txt
-/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/prompt.js.LICENSE.txt
-/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/command_line.js.LICENSE.txt
-/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/background_worker.js.LICENSE.txt
-/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/webpage_content_reporter.js.LICENSE.txt
-/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/3.3.2_0/aria.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/4.6.0.2_0/writing_mode_assistant.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/4.6.0.2_0/prompt.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/4.6.0.2_0/command_line.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/4.6.0.2_0/background_worker.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/4.6.0.2_0/webpage_content_reporter.js.LICENSE.txt
+/Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/igpdmclhhlcpoindmhkhillbfhdgoegm/4.6.0.2_0/aria.js.LICENSE.txt
 /Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/gojhcdgcpbpfigcaejpfhfegekdgiblk/1.19_0/service.js.LICENSE.txt
 /Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/gojhcdgcpbpfigcaejpfhfegekdgiblk/1.19_0/web3/provider.js.LICENSE.txt
 /Users/viktor/Library/Application Support/com.operasoftware.Opera/Default/Extensions/kfhepdlicclpndldhdpnfpknmdelndkf/0.0.30_0/index.js.LICENSE.txt
@@ -479,7 +487,6 @@
 /Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Extensions/efmeiipgodbfbbloibdecgnhnjjdenek/1.10.3_0/scripts/popup.js.LICENSE.txt
 /Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Extensions/efmeiipgodbfbbloibdecgnhnjjdenek/1.10.3_0/scripts/background.js.LICENSE.txt
 /Users/viktor/Library/Application Support/Yandex/YandexBrowser/Default/Extensions/efmeiipgodbfbbloibdecgnhnjjdenek/1.10.3_0/scripts/blocked.js.LICENSE.txt
-/Users/viktor/Library/Application Support/Yandex/YandexBrowser/AsrSubtitles/24.2.15.0/subword_ctct_dict.txt
 /Users/viktor/Library/Application Support/Yandex/YandexBrowser/AsrSubtitles/24.7.12.0/subword_ctct_dict.txt
 /Users/viktor/Library/Application Support/Yandex/YandexBrowser/AsrSubtitles/24.7.12.0/._subword_ctct_dict.txt
 /Users/viktor/Library/Application Support/TeamViewer QuickSupport/Custom Configurations/x6cwqqm/disclaimer.txt
@@ -556,25 +563,25 @@
 /Users/viktor/Library/Group Containers/UBF8T346G9.OneDriveStandaloneSuite/FileProviderLogs/telemetry-dll-ramp-value.txt
 /Users/viktor/Library/Group Containers/group.com.docker/DockerAppStderr.txt
 /Users/viktor/Library/Group Containers/group.com.docker/auth-token-family-creation-time.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-49-57.175.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-27-39.051.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-03-51.907.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-46-57.857.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-06-55.853.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-12-40.737.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-18-47.101.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-41-04.097.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-52-39.584.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-57-50.297.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-56-00.974.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-24-15.091.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-38-18.919.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_21-00-55.023.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_21-05-27.350.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-21-46.762.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-44-04.375.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-51-40.907.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-15-50.539.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_20-55-17.703.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-09-28.514.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-33-36.315.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-25_11-06-36.309.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-22_16-20-39.989.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-28-53.393.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-33-12.873.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-00-51.709.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-47-11.504.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-18_16-59-54.945.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-30-10.749.txt
+/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-42-40.334.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-24-50.234.txt
 /Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/b5419f0174c792076e7083dc227c2afb/PackageResources/index.macos.jsbundle.LICENSE.txt
 /Users/viktor/Library/Group Containers/UBF8T346G9.Office/SolutionPackages/b5419f0174c792076e7083dc227c2afb/PackageResources/tester.macos.jsbundle.LICENSE.txt
@@ -863,7 +870,6 @@
 /Users/viktor/IdeaProjects/CryptoAnalyzer/text/dict.txt
 /Users/viktor/IdeaProjects/CryptoAnalyzer/src/main/java/ru/javarush/cryptoanalyzer/sternard/logs/LogExceptions.txt
 /Users/viktor/IdeaProjects/git-status-lesson/fileA.txt
-/Users/viktor/IdeaProjects/job4j_finder/log.txt
 /Users/viktor/IdeaProjects/new-ptoject/text.txt
 /Users/viktor/IdeaProjects/hippodrome/target/surefire-reports/HorseTest.txt
 /Users/viktor/IdeaProjects/hippodrome/target/surefire-reports/MainTest.txt

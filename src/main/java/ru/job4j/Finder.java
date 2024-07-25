@@ -59,30 +59,17 @@ public class Finder {
     }
 
     public static void main(String[] args) {
+        ArgsName argsName = ArgsName.of(args);
+
         if (args.length < 4) {
             throw new IllegalArgumentException(
                     "Usage: java Finder -d=<directory> -n=<name> -t=<type> -o=<output>");
         }
-        String directory = null;
-        String name = null;
-        String type = null;
-        String output = null;
-        for (String arg : args) {
-            if (arg.startsWith("-d=")) {
-                directory = arg.substring(3);
-            } else if (arg.startsWith("-n=")) {
-                name = arg.substring(3);
-            } else if (arg.startsWith("-t=")) {
-                type = arg.substring(3);
-            } else if (arg.startsWith("-o=")) {
-                output = arg.substring(3);
-            }
-        }
-        if (directory == null || name == null || type == null || output == null) {
-            throw new IllegalArgumentException("All parameters -d, -n, -t, and -o are required.");
-        }
+        String directory = argsName.get("d");
+        String name = argsName.get("n");
+        String type = argsName.get("t");
+        String output = argsName.get("o");
         try {
-            // Поиск файлов в указанной директории
             List<String> result = searchFiles(directory, name, type);
             writeToFile(result, output);
         } catch (IOException e) {
