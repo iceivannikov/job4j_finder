@@ -13,7 +13,6 @@ public class Finder {
                                             String type) throws IOException {
         List<String> result = new ArrayList<>();
         Path startPath = Paths.get(directory);
-
         Files.walkFileTree(startPath, new SimpleFileVisitor<>() {
             @Override
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) {
@@ -23,14 +22,12 @@ public class Finder {
                 }
                 return FileVisitResult.CONTINUE;
             }
-
             @Override
             public FileVisitResult visitFileFailed(Path file, IOException exc) {
                 System.err.println("Failed to access file: " + file + " (" + exc.getMessage() + ")");
                 return FileVisitResult.CONTINUE;
             }
         });
-
         return result;
     }
 
@@ -51,7 +48,7 @@ public class Finder {
     }
 
     private static void writeToFile(List<String> result, String output) throws IOException {
-        try (FileWriter writer = new FileWriter(output, false)) {
+        try (FileWriter writer = new FileWriter(output)) {
             for (String line : result) {
                 writer.write(line + System.lineSeparator());
             }
@@ -64,11 +61,11 @@ public class Finder {
                     "Usage: java Finder -d=<directory> -n=<name> -t=<type> -o=<output>");
         }
         ArgsName argsName = ArgsName.of(args);
+        validateArgs(argsName);
         String directory = argsName.get("d");
         String name = argsName.get("n");
         String type = argsName.get("t");
         String output = argsName.get("o");
-        validateArgs(directory, name, type, output);
         try {
             List<String> result = searchFiles(directory, name, type);
             writeToFile(result, output);
@@ -77,20 +74,22 @@ public class Finder {
         }
     }
 
-    private static void validateArgs(String directory, String name, String type, String output) {
-        if (directory == null || directory.isEmpty()) {
+    private static void validateArgs(ArgsName argsName) {
+        if (argsName.get("d") == null || argsName.get("d").isEmpty()) {
             throw new IllegalArgumentException("Directory parameter '-d' is required.");
         }
-        if (name == null || name.isEmpty()) {
+        if (argsName.get("n") == null || argsName.get("n").isEmpty()) {
             throw new IllegalArgumentException("Name parameter '-n' is required.");
         }
-        if (type == null || type.isEmpty()) {
+        if (argsName.get("t") == null || argsName.get("t").isEmpty()) {
             throw new IllegalArgumentException("Type parameter '-t' is required.");
         }
-        if (output == null || output.isEmpty()) {
+        if (argsName.get("o") == null || argsName.get("o").isEmpty()) {
             throw new IllegalArgumentException("Output parameter '-o' is required.");
         }
-        if (!type.equals("mask") && !type.equals("name") && !type.equals("regex")) {
+        if (!argsName.get("t").equals("mask")
+                && !argsName.get("t").equals("name")
+                && !argsName.get("t").equals("regex")) {
             throw new IllegalArgumentException(
                     "Type parameter '-t' must be one of the following: mask, name, regex.");
         }
