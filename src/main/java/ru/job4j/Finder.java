@@ -22,6 +22,7 @@ public class Finder {
                 }
                 return FileVisitResult.CONTINUE;
             }
+
             @Override
             public FileVisitResult visitFileFailed(Path file, IOException exc) {
                 System.err.println("Failed to access file: " + file + " (" + exc.getMessage() + ")");
@@ -55,6 +56,44 @@ public class Finder {
         }
     }
 
+    private static void validateArgs(ArgsName argsName) {
+        if (argsName.get("d") == null || argsName.get("d").isEmpty()) {
+            throw new IllegalArgumentException("Directory parameter '-d' is required.");
+        }
+        if (argsName.get("n") == null || argsName.get("n").isEmpty()) {
+            throw new IllegalArgumentException("Name parameter '-n' is required.");
+        }
+        if (argsName.get("t") == null || argsName.get("t").isEmpty()) {
+            throw new IllegalArgumentException("Type parameter '-t' is required.");
+        }
+        if (argsName.get("o") == null || argsName.get("o").isEmpty()) {
+            throw new IllegalArgumentException("Output parameter '-o' is required.");
+        }
+        if (!Files.isDirectory(Path.of(argsName.get("d")))) {
+            throw new IllegalArgumentException("Directory parameter '-d' is invalid.");
+        }
+        if (!isValidFileName(argsName.get("n"))) {
+            throw new IllegalArgumentException(
+                    "Name parameter '-n' must match the pattern '<name>.<extension>'.");
+        }
+        if (!"mask".equals(argsName.get("t"))
+                && !"name".equals(argsName.get("t"))
+                && !"regex".equals(argsName.get("t"))) {
+            throw new IllegalArgumentException(
+                    "Type parameter '-t' must be one of the following: mask, name, regex.");
+        }
+        try {
+            Paths.get(argsName.get("o"));
+        } catch (InvalidPathException e) {
+            throw new IllegalArgumentException("Output parameter '-o' is invalid.", e);
+        }
+    }
+
+    private static boolean isValidFileName(String fileName) {
+        int dotIndex = fileName.lastIndexOf('.');
+        return dotIndex > 0 && dotIndex < fileName.length() - 1;
+    }
+
     public static void main(String[] args) {
         if (args.length < 4) {
             throw new IllegalArgumentException(
@@ -71,27 +110,6 @@ public class Finder {
             writeToFile(result, output);
         } catch (IOException e) {
             throw new RuntimeException("Error during file operation: " + e.getMessage(), e);
-        }
-    }
-
-    private static void validateArgs(ArgsName argsName) {
-        if (argsName.get("d") == null || argsName.get("d").isEmpty()) {
-            throw new IllegalArgumentException("Directory parameter '-d' is required.");
-        }
-        if (argsName.get("n") == null || argsName.get("n").isEmpty()) {
-            throw new IllegalArgumentException("Name parameter '-n' is required.");
-        }
-        if (argsName.get("t") == null || argsName.get("t").isEmpty()) {
-            throw new IllegalArgumentException("Type parameter '-t' is required.");
-        }
-        if (argsName.get("o") == null || argsName.get("o").isEmpty()) {
-            throw new IllegalArgumentException("Output parameter '-o' is required.");
-        }
-        if (!argsName.get("t").equals("mask")
-                && !argsName.get("t").equals("name")
-                && !argsName.get("t").equals("regex")) {
-            throw new IllegalArgumentException(
-                    "Type parameter '-t' must be one of the following: mask, name, regex.");
         }
     }
 }
