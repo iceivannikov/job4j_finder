@@ -16,7 +16,9 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1056/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1067/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/701/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1230/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/908/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1236/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/990/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/643/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/816/CacheStorage/index.txt
@@ -42,14 +44,19 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1028/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/713/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/715/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1270/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/922/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/783/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/777/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1089/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/779/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1241/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/746/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/914/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/392/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1233/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1235/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1232/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/951/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/536/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/795/CacheStorage/index.txt
@@ -86,6 +93,7 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/522/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/945/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/926/CacheStorage/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/1274/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/787/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/789/CacheStorage/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/WebStorage/910/CacheStorage/index.txt
@@ -106,9 +114,11 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/1872bb20807a532af6adf50afeb08999bdc8c90c/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d1bf1f24f080db5520d2c93f532f253c4b8d92e8/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d0e0b63c2ea53af221ee5cc55552a40dd13ef4f4/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/cf563b5ba7389438260770e9cabc6cba1bffd474/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c7d67cba325ccbd672a24c3cb400e99086a62d4c/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/571988c4897ef87c20ec4d6b13878cf6c36e1caf/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/a0626c2b1f02a4f2e744ba16df7a7e5f3cbc21d9/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/7b03fa28ce660070bee6c3724cbab2545ba781b0/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/2ff318b699567256ed3d4ba25948f8d632f13d7d/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/52f9e2ae2e3dafa60e5aaa22e02461fb1b47bc8c/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b179c7b416052cc6da17545cae82cb5a7ab2412c/index.txt
@@ -143,6 +153,7 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/3733aa2090d35c471aaad13ba18f97c4983ffa99/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/32cadb2b6d359d069dd3f3d132c212a43d223701/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/d8d05327c5274855b1a8796001e4dc6b8f2e344f/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/60abf70954ca1bd166c9f39e62c89a07426fd9c3/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/c02d92c21a1041fdacc219d920cfe5fb2eb28a9f/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/6f38fcd43ac2347fc6f3b33e2844f58e79cb626f/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/e9477dad03332f49814329f049f2f5cecdabf00d/index.txt
@@ -151,6 +162,7 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/961aa296b38fe90a3417c793968cda30d9a973d0/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/020b9dec763273c3be8b9ee1355a4b209054d9b3/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/804e647094f8bbebf1e2c21e687db02a6096fdae/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/e01f19e2630bf857ca9222cb547db7dc458ce71f/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/2db77b47549a3c71f729725876c9f30361eea089/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/9c0086f2625be72ced4bb6ef8f3a94654a553024/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/51d58b70c5aa7f4f823b778f14e6dec7f32d1064/index.txt
@@ -165,13 +177,16 @@
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/b6db253e078ae711c8da99b0cf926d895edb1062/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/134dcd51b150618cb93133ada060e4c799893fa5/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/3bfa032ddf16b54a0c5eac158ac05366309ec1ef/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/8812a7c1331232b5c5f389e6c189a98e13a7f9d3/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/7f48483383968cfbf97a5c6d736588b00ccb874e/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/36a188fb02396c7e777a6f1f2ffdbc4420d5fb63/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/9831e4f5fd1fe96bd60aaaf66ca1f1b8e6467e38/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/313a831c8fcbd33313f1147cdd13bc0b40a0ae8f/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/19f7f765e8fec372900240700faada077eed5eeb/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/397e5d81bdb71a423054f3b5524da80fc3c2e3bb/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/0f4c87f58e3554965c14e5072f508889705a6c84/index.txt
+/Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Service Worker/CacheStorage/cfa5a1308d0c7f77800f10269e5db14b6c1a36e4/index.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Extensions/kgjfgplpablkjnlkjmjdecgdpfankdle/1.8.34_0/js/lib.bundle.js.LICENSE.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Extensions/kgjfgplpablkjnlkjmjdecgdpfankdle/1.8.34_0/version.txt
 /Users/viktor/Library/Application Support/Google/Chrome/Profile 1/Extensions/bkhaagjahfmjljalopjnoealnfndnagc/8.0.1_0/NOTICE.txt
@@ -574,7 +589,6 @@
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_21-05-27.350.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-21-46.762.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-51-40.907.txt
-/Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-15_21-15-50.539.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-24_20-33-36.315.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-25_11-06-36.309.txt
 /Users/viktor/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram/appstore/logs/critlog-2024-7-22_16-20-39.989.txt
@@ -624,6 +638,11 @@
 /Users/viktor/Library/Containers/com.apple.weather/Data/Library/Caches/com.apple.AppleMediaServices/sap-setup-cert.txt
 /Users/viktor/Library/Containers/com.tinyspeck.slackmacgap/Data/Library/Application Support/Slack/Service Worker/CacheStorage/4c237d5e33167c88df3e45d9c8b59fdd4d727472/index.txt
 /Users/viktor/Library/Containers/com.docker.docker/Data/extensions/mochoa_pgadmin4-docker-extension/ui/ui/static/js/main.b0d0b639.js.LICENSE.txt
+/Users/viktor/Library/Caches/com.openai.chat/org.sparkle-project.Sparkle/Installation/bK32MNhKx/UdKHFE2rs/ChatGPT.app/Contents/Resources/Settings.bundle/com.mono0926.LicensePlist.latest_result.txt
+/Users/viktor/Library/Caches/com.openai.chat/org.sparkle-project.Sparkle/Installation/bK32MNhKx/UdKHFE2rs/ChatGPT.app/Contents/Resources/iosMath_iosMath.bundle/Contents/Resources/README-Latin-Modern-Math.txt
+/Users/viktor/Library/Caches/com.openai.chat/org.sparkle-project.Sparkle/Installation/bK32MNhKx/UdKHFE2rs/ChatGPT.app/Contents/Resources/iosMath_iosMath.bundle/Contents/Resources/OFL.txt
+/Users/viktor/Library/Caches/com.openai.chat/org.sparkle-project.Sparkle/Installation/bK32MNhKx/UdKHFE2rs/ChatGPT.app/Contents/Resources/iosMath_iosMath.bundle/Contents/Resources/README-TeX-Gyre-Termes-Math.txt
+/Users/viktor/Library/Caches/com.openai.chat/org.sparkle-project.Sparkle/Installation/bK32MNhKx/UdKHFE2rs/ChatGPT.app/Contents/Resources/iosMath_iosMath.bundle/Contents/Resources/GUST-FONT-LICENSE.txt
 /Users/viktor/Library/Caches/iMazing/00008130-001E15A234B8001C/PartialBackup/00008130-001E15A234B8001C/iMazingBackupChecksum.txt
 /Users/viktor/Library/Caches/Homebrew/external_commands_list.txt
 /Users/viktor/Library/Caches/Homebrew/all_commands_list.txt

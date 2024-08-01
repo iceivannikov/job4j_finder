@@ -57,18 +57,6 @@ public class Finder {
     }
 
     private static void validateArgs(ArgsName argsName) {
-        if (argsName.get("d") == null || argsName.get("d").isEmpty()) {
-            throw new IllegalArgumentException("Directory parameter '-d' is required.");
-        }
-        if (argsName.get("n") == null || argsName.get("n").isEmpty()) {
-            throw new IllegalArgumentException("Name parameter '-n' is required.");
-        }
-        if (argsName.get("t") == null || argsName.get("t").isEmpty()) {
-            throw new IllegalArgumentException("Type parameter '-t' is required.");
-        }
-        if (argsName.get("o") == null || argsName.get("o").isEmpty()) {
-            throw new IllegalArgumentException("Output parameter '-o' is required.");
-        }
         if (!Files.isDirectory(Path.of(argsName.get("d")))) {
             throw new IllegalArgumentException("Directory parameter '-d' is invalid.");
         }
